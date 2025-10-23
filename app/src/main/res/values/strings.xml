@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="label_name">Имя</string>
+    <string name="hint_name">Введите имя</string>
+    <string name="label_age">Возраст</string>
+    <string name="age_suffix">лет</string>
+    <string name="label_g">Пол</string>
+    <string name="g_male">Мужской</string>
+    <string name="g_female">Женский</string>
+    <string name="sub_text">Хочу анкета премиум</string>
+    <string name="button_send">Отправить</string>
+    <string name="error_name_empty">Пожалуйста, введите имя</string>
+    <string name="result_title">Результат</string>
+    <string name="result_name">Имя: </string>
+    <string name="result_age">Возраст: </string>
+    <string name="result_gender">Пол: </string>
+    <string name="result_sub">Подписка: </string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+</resources>
